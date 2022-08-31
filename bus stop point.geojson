@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bus stop point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -8800363.552214410156012, 4288468.389427069574594 ] } }
+]
+}
